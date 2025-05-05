@@ -31,6 +31,7 @@ print(df_json)
 | --- | ----- | ----------------------------- |
 | 1   | Alice | `{'math': 85, 'science': 90}` |
 | 2   | Bob   | `{'math': 78, 'science': 88}` |
+
 Example: (After Json Normalize)
 ```
 import pandas as pd
