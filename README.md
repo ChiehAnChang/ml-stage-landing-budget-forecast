@@ -1,5 +1,5 @@
 # Data Science Forecasting Project
-## A Machine-Learning Approach to SpaceX Stage-Landing Budget Reduction
+## Project Title: A Machine-Learning Approach to SpaceX Stage-Landing Budget Reduction
 
 ### Acknowledgments
 This project was originally **inspired and generated** by the IBM *Applied Data Science Capstone* team on Coursera.  
