@@ -8,8 +8,9 @@
 3. [Methodology](#methodology)  
 4. [Results](#results)  
 5. [How to Reproduce](#how-to-reproduce)  
-6. [Future Work](#future-work)  
-7. [Acknowledgments And Credits](#acknowledgments-And-Credits)  
+6. [Future Work](#future-work)
+7. [Reference](#Reference) 
+8. [Acknowledgments And Credits](#acknowledgments-And-Credits)  
 9. [Contact](#contact)
    
 ## Acknowledgments And Credits
@@ -18,9 +19,11 @@ I have modified the original project so that it can be used to simulate the day-
 
 Instructors, contributors, and staff who made it possible include:  
 
-Joseph Santarcangelo, Yan Luo, Rav Ahuja, Lakshmi Holla, Azim Hirjani, Grace Barker,  
-Rachael Jones, Kathleen Bergner, Bella West, Simer Preet, Lauren Hall, Hunter Bay,  
-Tanya Singh, Om Singh, Malika Singla, Duvvana Mrutyunjaya Naidu, and Anita Verma.  
+   - Joseph Santarcangelo, Yan Luo, Rav Ahuja, Lakshmi Holla, Azim Hirjani, Grace Barker,  
+   Rachael Jones, Kathleen Bergner, Bella West, Simer Preet, Lauren Hall, Hunter Bay,  
+   Tanya Singh, Om Singh, Malika Singla, Duvvana Mrutyunjaya Naidu, and Anita Verma. 
+
+IBM. (n.d.). Applied data science capstone [Massive open online course]. Coursera. Retrieved May 5, 2025, from https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science
 
 ## Contact
 - Author: Chieh-An Chang
