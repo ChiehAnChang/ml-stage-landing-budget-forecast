@@ -9,10 +9,10 @@
 4. [Results](#results)  
 5. [How to Reproduce](#how-to-reproduce)  
 6. [Future Work](#future-work)  
-7. [Acknowledgments](#acknowledgments)  
+7. [Acknowledgments And Credits](#acknowledgments-And-Credits)  
 9. [Contact](#contact)
    
-## Acknowledgments
+## Acknowledgments And Credits
 This project was originally **inspired and generated** by the IBM *Applied Data Science Capstone* team on Coursera.  
 Instructors, contributors, and staff who made it possible include:  
 
