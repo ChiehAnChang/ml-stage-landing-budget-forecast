@@ -1,7 +1,18 @@
 # Data Science Forecasting Project
+
 ## Project Title: A Machine-Learning Approach to SpaceX Stage-Landing Budget Reduction
 
-### Acknowledgments
+## Table of Contents
+1. [Introduction](#introduction)  
+2. [Dataset](#dataset)  
+3. [Methodology](#methodology)  
+4. [Results](#results)  
+5. [How to Reproduce](#how-to-reproduce)  
+6. [Future Work](#future-work)  
+7. [Acknowledgments](#acknowledgments)  
+9. [Contact](#contact)
+   
+## Acknowledgments
 This project was originally **inspired and generated** by the IBM *Applied Data Science Capstone* team on Coursera.  
 Instructors, contributors, and staff who made it possible include:  
 
@@ -10,3 +21,8 @@ Rachael Jones, Kathleen Bergner, Bella West, Simer Preet, Lauren Hall, Hunter Ba
 Tanya Singh, Om Singh, Malika Singla, Duvvana Mrutyunjaya Naidu, and Anita Verma.  
 
 I have modified the original project so that it can be used to simulate the day-to-day work of a data scientist.
+
+## Contact
+Author: Chieh-An Chang
+Preferred Name: Andy
+Email: chiehan.chang.job@gmail.com
