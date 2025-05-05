@@ -23,6 +23,7 @@ Tanya Singh, Om Singh, Malika Singla, Duvvana Mrutyunjaya Naidu, and Anita Verma
 I have modified the original project so that it can be used to simulate the day-to-day work of a data scientist.
 
 ## Contact
-Author: Chieh-An Chang
-Preferred Name: Andy
-Email: chiehan.chang.job@gmail.com
+- Author: Chieh-An Chang
+- Preferred Name: Andy
+- Email: chiehan.chang.job@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chiehanchang/
