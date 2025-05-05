@@ -14,7 +14,7 @@
 9. [Contact](#contact)
    
 ## Acknowledgments And Credit
-### Acknowledgments
+### Acknowledgments:
 This project was originally **inspired and generated** by the IBM *Applied Data Science Capstone* team on Coursera.  
 I have modified the original project so that it can be used to simulate the day-to-day work of a data scientist.
 
